@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Yogarine.MovementCapture" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Yogarine.Util" vcs="Git" />
   </component>
 </project>
