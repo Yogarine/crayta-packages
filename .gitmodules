@@ -1,0 +1,3 @@
+[submodule "Yogarine.Util"]
+	path = Yogarine.Util
+	url = git@github.com:Yogarine/crayta-yogarine-util.git
